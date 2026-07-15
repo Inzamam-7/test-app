@@ -1,0 +1,1 @@
+This is the folder where we write the intution of dark-mode how to enable it how its functionality works how it should behave
