@@ -1,0 +1,1 @@
+Hello from main while learning how to solve conflicts in git and github
